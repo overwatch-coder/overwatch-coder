@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nyamadi Atsu (Overwatch-Coder) - ELECTRICAL AND INDUSTRIAL ENGINEERING STUDENT
+- 👋 Hi, I’m Nyamadi Atsu (Overwatch-Coder) - ELECTRICAL ENGINEERING AND INDUSTRIAL COMPUTING STUDENT
 - 👀 I’m interested in everything electronics, creative programming
      and everything that has to do with Tech 
 - 🌱 I’m currently learning JavaScript (Front-end). 
