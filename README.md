@@ -7,9 +7,8 @@
 - In my spare time, I like to watch movies and listen to music and sleep. I love sci-fi and comic movies
 - 📫 Let's connect on :
      IG : @brainy_codes
-     Twitter: @speedy_codes
-     FB: Atsu Brainy
-
+     Twitter: @overwatch_coder
+     
 <!---
 overwatch-coder/overwatch-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
