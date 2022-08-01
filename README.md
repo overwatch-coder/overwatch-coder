@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on any project involving front-end tools as well as PHP and MySQL
 - In my spare time, I like to watch movies and listen to music and sleep. I love sci-fi and comic movies
 - 📫 Let's connect on :
-     IG : @brainy_codes
+     IG : @overwatch_coder
      Twitter: @overwatch_coder
      
 <!---
