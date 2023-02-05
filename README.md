@@ -1,5 +1,7 @@
-Embedded Systems ENgineer
+Embedded Systems Engineer
+
 Web developer - MERN Stack
+
 UI Designer
 <!---
 overwatch-coder/overwatch-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
