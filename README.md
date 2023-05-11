@@ -1,6 +1,6 @@
 # 💫 About Me:
-###MERN Stack Developer <br>
-###Embedded Systems Engineer <br>
+### MERN Stack Developer <br>
+### Embedded Systems Engineer <br>
 
 
 ## 🌐 Socials:
