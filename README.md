@@ -1,5 +1,5 @@
 # 💫 About Me:
- MERN Stack Developer <br>
+ Full Stack Developer | React | Next Js | Node | Express | TypeScript <br>
  Embedded Systems Engineer <br>
 
 
