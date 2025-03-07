@@ -1,5 +1,5 @@
 # 💫 About Me:
- Full Stack Developer | React | Next Js | Node | Express | TypeScript <br>
+ Full Stack Developer | React | Next Js | Node | Express | TypeScript | Laravel  | PHP <br>
  Embedded Systems Engineer <br>
 
 
